@@ -1,0 +1,23 @@
+div{width:100px;
+    height:100px;
+    background-color: red;
+    border-radius: 10px;
+    border: dashed 5px tomato;
+    margin: 20px auto;}
+
+
+  .dogone{border:10px groove orange;
+
+    }
+
+
+  .dogtwo{border:10px dashed blue;
+      }
+
+
+  .dogthree{border:10px groove green;
+        }
+
+
+  .dogfour{border:10px groove black;
+          }
